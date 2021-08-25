@@ -13,7 +13,7 @@
 **Instructor:** Maria Kim Heinert\
 Please visit my [website](https://mariakimheinert.com) for my email, office hours, and office location.\
 **Discord:** [Allegheny College Computer Science](https://discord.gg/tqR2Yh4gNa)\
-Click the link above to join the Discord server. Once you are a member, I will add you to our private course channel, **#junior-innovators**.\
+Click the link above to join the Discord server. Once you are a member I will add you to our private course channel, **#junior-innovators**.\
 Most of our communication, including announcements from me that affect our course, will take place on Discord.
 
 ## Instructional Materials
@@ -37,7 +37,7 @@ By the end of this course, you will be able to:
 - Tell a compelling professional narrative
 - Compile a focused list of viable opportunities that closely align with your background, interests, and goals
 - Maintain and tailor a resume or curriculum vitae that is a complete inventory of your professional experiences and accomplishments
-- Have an online presence in the form of a portfolio website that showcases your professional narrative and demonstrates the work behind it
+- Have an online presence in the form of a portfolio website that showcases your professional identity and work
 - Identify and follow through on networking opportunities
 
 ## Grading
@@ -65,7 +65,7 @@ Because assignment submissions will greatly vary from student to student, due to
 
 #### Portfolio Website
 
-Bringing together components produced in previous assignments, you will develop a portfolio website that showcases your professional identity and demonstrates the work behind it. Your portfolio website should communicate to visitors who you are, where you have been (i.e. past experiences and accomplishments), and where you are headed (i.e. interests and goals). More specific requirements for this portfolio website will be announced later in the semester.
+Bringing together components produced in previous assignments, you will develop a portfolio website that showcases your professional identity and work. Your portfolio website should communicate to visitors who you are, where you have been (i.e. past experiences and accomplishments), and where you are headed (i.e. interests and goals). More specific requirements for this portfolio website will be announced later in the semester.
 
 ### Due Dates and Extensions
 
